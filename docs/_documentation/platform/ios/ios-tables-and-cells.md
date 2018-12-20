@@ -105,6 +105,6 @@ For examples of creating custom tables and cells:
   - N=6 and N=6.5 covers a book list (a good place to start)
   - N=11 covers collection views
   - N=12 to k=17 make a large app with a list/table from a database
-- the [Working with Collections]((https://github.com/MvvmCross/MvvmCross-Samples/tree/master/WorkingWithCollections)) sample has quite a lot of Table and List code
+- the [Working with Collections](https://github.com/MvvmCross/MvvmCross-Samples/tree/master/WorkingWithCollections) sample has quite a lot of Table and List code
 - there are other samples available - see [MvvmCross-Samples](https://github.com/MvvmCross/MvvmCross-Samples) (or just search on the web for mvvmcross - others are also posting samples)
 - Custom Cells Without Using NIB files - [benjaminhysell blog](http://benjaminhysell.com/archive/2014/04/mvvmcross-custom-mvxtableviewcell-without-a-nib-file/)
